@@ -8,6 +8,7 @@
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
         Hacé click acá para dejar tu feedback sobre esta clase.
+        <br>Bastante interesante esta clase, la manera en que se puede mover un objeto practicamente en ilimitada, excelente explicacion y muy buen feedback de tema.
       </a>
     </td>
   </tr>
